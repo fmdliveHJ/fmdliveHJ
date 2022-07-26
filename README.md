@@ -2,7 +2,7 @@
  <div align=center>
 
  <header>
- <img src="https://capsule-render.vercel.app/api?type=Slice&color=auto&height=300&section=header&text=JUNG%20HYEONJIN&fontSize=50&animation=fadeIn&fontAlignY=38&descAlignY=81&descAlign=-90&rotate=20&fontColor=fff" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JUNG%20HYEONJIN&fontSize=50&animation=fadeIn&fontAlignY=38&descAlignY=81&descAlign=-90&fontColor=fff" />
  </header>
 
   <p>안녕하세요!
