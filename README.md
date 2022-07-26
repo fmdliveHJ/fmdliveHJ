@@ -1,8 +1,6 @@
 
  <div align=center>
- <style type='text/css'>
-   [class*="none"] { display: flex; width: 20%; height: 50px; }
-</style>
+
  <header>
  <img src="https://capsule-render.vercel.app/api?type=Slice&color=auto&height=300&section=header&text=JUNG%20HYEONJIN&fontSize=50&animation=fadeIn&fontAlignY=38&descAlignY=81&descAlign=-90&rotate=20&fontColor=fff" />
  </header>
