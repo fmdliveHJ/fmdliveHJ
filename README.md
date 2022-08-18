@@ -12,6 +12,7 @@
 프론트엔드 개발자 정현진 입니다.</p>
 <p>긍정적 사고로 끊임없이 노력합니다.
 웹퍼블리셔 3년 동안 변화하는 웹 트렌드에 뒤쳐지지 않으려 <br> 새로운 것을 찾고 탐구 합니다.</p>
+<p>홈페이지 : <a href="http://fmdlive.com">fmdlive.com</a> </p>
 
  
  <h2> My Skill </h2>
@@ -39,13 +40,22 @@
         <a href="https://fmdlivehj.github.io/nudie_portfolio/" title="바닐라 자바스크립트 누디진 🚀">
           <img align="center" src="http://fmdlive.com/images/nudie_02.png" width="300" alt-text="Frontend Roadmap">
         </a>
+        <p>바닐라 자바스크립트 누디진</p>
       </td>
       <td>
-        <a href="https://fmdlivehj.github.io/jeep_portfolio/#/" title="누디진 리뉴얼 페이지">
-          <img align="center" src="http://fmdlive.com/images/jeep_02.png" width="300" alt-text="누디진 리뉴얼 페이지">
+        <a href="https://fmdlivehj.github.io/jeep_portfolio/#/" title="리액트, 리덕스 사가">
+          <img align="center" src="http://fmdlive.com/images/jeep_02.png" width="300" alt-text="리액트, 리덕스 사가">
         </a>
+        <p>리액트, 리덕스 사가 </p>
+      </td>
+      <td>
+        <a href="https://fmdlivehj.github.io/jeep_portfolio/#/" title="리액트 , 리덕스 툴킷">
+          <img align="center" src="http://fmdlive.com/images/jeep_02.png" width="300" alt-text="리액트 , 리덕스 툴킷">
+        </a>
+        <p>리액트 , 리덕스 툴킷</p>
       </td>
      </tr>
+   
   </tbody>
 </table>
 
