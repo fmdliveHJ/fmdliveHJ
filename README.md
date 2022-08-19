@@ -12,7 +12,7 @@
 프론트엔드 개발자 정현진 입니다.</p>
 <p>긍정적 사고로 끊임없이 노력합니다.
 웹퍼블리셔 3년 동안 변화하는 웹 트렌드에 뒤쳐지지 않으려 <br> 새로운 것을 찾고 탐구 합니다.</p>
-<p>홈페이지 : <a href="http://fmdlive.com">fmdlive.com</a> </p>
+<p>홈페이지 : <a href="http://fmdlive.com" target="_blank">fmdlive.com</a> </p>
 
  
  <h2> My Skill </h2>
