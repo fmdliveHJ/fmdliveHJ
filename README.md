@@ -40,36 +40,35 @@
         <a href="https://fmdlivehj.github.io/nudie_portfolio/" title="바닐라 자바스크립트 누디진 🚀">
           <img align="center" src="http://fmdlive.com/images/nudie_02.png" width="300" alt-text="누디진">
         </a>
-        <p>바닐라 자바스크립트 누디진</p>
+        <p align="center">바닐라 자바스크립트 누디진</p>
       </td>
       <td>
         <a href="https://fmdlivehj.github.io/jeep_portfolio/#/" title="리액트, 리덕스 사가">
           <img align="center" src="http://fmdlive.com/images/jeep_02.png" width="300" alt-text="리액트, 리덕스 사가">
         </a>
-        <p>리액트, 리덕스 사가 </p>
+        <p align="center">리액트, 리덕스 사가 </p>
       </td>
       <td>
         <a href="https://fmdlivehj.github.io/jeep_toolkit/" title="리액트 , 리덕스 툴킷">
           <img align="center" src="http://fmdlive.com/images/jeep_02.png" width="300" alt-text="리액트 , 리덕스 툴킷">
         </a>
-        <p>리액트 , 리덕스 툴킷</p>
+        <p align="center">리액트 , 리덕스 툴킷</p>
       </td>
      </tr>
   </tbody>
 </table>
-<br><br>
+<br/><br/>
 <h2>Toy Project</h2>
 <table>
   <tbody>
-      <tr>
-      <td>
-        <a href="https://fmdlivehj.github.io/todo_list/" title="투두리스트 🚀">
-          <img align="center" src="http://fmdlive.com/img/todolist.png" width="300" alt-text="투두리스트">
-        </a>
-        <p>투두 리스트</p>
+   <tr>
+    <td>
+     <a href="https://fmdlivehj.github.io/todo_list/" title="투두리스트">
+      <img align="center" src="http://fmdlive.com/img/todolist.png" width="300" alt-text="투두리스트">
+     </a>
+      <p align="center">투두 리스트</p>
       </td>
-    
-     </tr>
+   </tr>
    
   </tbody>
 </table>
