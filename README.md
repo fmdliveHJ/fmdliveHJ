@@ -1,4 +1,3 @@
-
  <div align=center>
 
  <header>
@@ -10,11 +9,10 @@
 저는 깔끔한 UI와
 특별한 UX를 만드는
 프론트엔드 개발자 정현진 입니다.</p>
+
 <p>긍정적 사고로 끊임없이 노력합니다.
 웹퍼블리셔 3년 동안 변화하는 웹 트렌드에 뒤쳐지지 않으려 <br> 새로운 것을 찾고 탐구 합니다.</p>
-<p>홈페이지 : <a href="http://fmdlive.com" target="_blank">fmdlive.com</a> </p>
 
- 
  <h2> My Skill </h2>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
@@ -26,8 +24,12 @@
 
  <p>
  학습중 : <br>
-<img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
- 
+
+![AWS](https://img.shields.io/badge/-AWS-F05032?style=for-the-badge&logo=amazon&logoColor=ffffff)
+![firebase](https://img.shields.io/badge/-FIREBASE-1a73e8?style=for-the-badge&logo=FIREBASE&logoColor=ffffff)
+
+<!-- <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+  -->
 </p>
 
 <br/>
