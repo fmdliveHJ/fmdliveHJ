@@ -25,10 +25,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 
  <p>
- 학습중 : <br>
 
-![AWS](https://img.shields.io/badge/-AWS-F05032?style=for-the-badge&logo=amazon&logoColor=ffffff)
-![firebase](https://img.shields.io/badge/-FIREBASE-1a73e8?style=for-the-badge&logo=FIREBASE&logoColor=ffffff)
 
 <!-- <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
   -->
