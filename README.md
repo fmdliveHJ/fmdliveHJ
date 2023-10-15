@@ -44,7 +44,7 @@
       </td>
       <td>
         <a href="https://fmdlivehj.github.io/jeep_portfolio/#/" title="리액트, 리덕스 사가">
-          <img align="center" src="http://fmdlive.com/gitimage/jeep.png" width="300" alt-text="리액트, 리덕스 사가">
+          <img align="center" src="[http://fmdlive.com/gitimage/jeep.png](https://s3.ap-northeast-2.amazonaws.com/fmdlive.com/gitimage/nudiejeans.png)" width="300" alt-text="리액트, 리덕스 사가">
         </a>
         <p align="center">리액트, 리덕스 사가 </p>
       </td>
