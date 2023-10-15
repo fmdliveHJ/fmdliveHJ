@@ -52,7 +52,7 @@
   </tbody>
 </table>
 <br/><br/>
-<h2>Toy Project</h2>
+<!-- <h2>Toy Project</h2> -->
 <!-- <table>
   <tbody>
    <tr>
