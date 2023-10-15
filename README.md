@@ -39,13 +39,13 @@
     <tr>
       <td>
         <a href="https://fmdlivehj.github.io/nudie_portfolio/" title="바닐라 자바스크립트 누디진 🚀">
-          <img align="center" src="http://fmdlive.com/images/nudie_02.png" width="300" alt-text="누디진">
+          <img align="center" src="fmdlive.com/gitimage/nudiejeans.png" width="300" alt-text="누디진">
         </a>
         <p align="center">바닐라 자바스크립트 누디진</p>
       </td>
       <td>
         <a href="https://fmdlivehj.github.io/jeep_portfolio/#/" title="리액트, 리덕스 사가">
-          <img align="center" src="http://fmdlive.com/images/jeep_02.png" width="300" alt-text="리액트, 리덕스 사가">
+          <img align="center" src="fmdlive.com/gitimage/jeep.png" width="300" alt-text="리액트, 리덕스 사가">
         </a>
         <p align="center">리액트, 리덕스 사가 </p>
       </td>
