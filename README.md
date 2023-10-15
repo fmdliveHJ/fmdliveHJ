@@ -31,12 +31,54 @@
   -->
 </p>
 
-<!-- <br/>
-<h2 style="line-height:1">Work Experience.</h2>
-<div style="background:red; height:1px;"></div>
+<br/>
+<h2 style="line-height:1">Front-end. Experience.</h2>
+<div style="background:#dfdfdf; height:1px;"></div>
+<h3><a href="http://www.baronote.com/" target="_blank">바로노트</a></h3>
+
+<p>프로젝트 기간 : 2022:10 ~ 현재</p>
+<p>사용한 기술스택 : React, Redux, styled-components</p>
 <ul>
-  <li></li>
-</ul> -->
+  <li>랜딩 페이지 스크롤 이벤트 구현 </li>
+  <li>검색 페이지 프론트 개발 및 질문 검색 기능 구현</li>
+  <li>mobile webview위한 반응형 구현</li>
+  <li>express, docker 사용한 다국어 코드북 페이지 구현</li>
+</ul>
+
+<h3>샘물</h3>
+<p>프로젝트 기간 : 2023:02 ~ 2023.03</p>
+<p>사용한 기술스택 : React, Redux-toolkit, tailwind.css</p>
+
+<ul>
+  <li>검색 페이지 프론트 개발 및 질문 검색 기능 구현</li>
+  <li>반응형 구현</li>
+</ul>
+
+<h2><h2 style="line-height:1">Web Publishing. Experience.</h2></h2>
+
+<h3><a href="https://www.webjangi.com/artwork" target="_blank">웹쟁이</a></h3>
+<p>프로젝트 기간 : 2021:09 ~ 2022.01</p>
+<p>사용한 기술스택 : html, css, jQuery, javascript</p>
+
+<ul>
+  <li>반응형 웹 퍼블리싱</li>
+</ul>
+
+<h3><a href="https://www.nowon.kr/nwll/web/intro" target="_blank">노원평생교육포털</a></h3>
+<p>프로젝트 기간 : 2021:09 ~ 2022.01</p>
+<p>사용한 기술스택 : html, css, jQuery, javascript</p>
+
+<ul>
+  <li>웹 접근성 준수 반응형 웹 퍼블리싱</li>
+</ul>
+
+<h3><a href="https://www.hswf.or.kr/fmcs/1" target="_blank">화성시여성가족청소년재단</a></h3>
+<p>프로젝트 기간 : 2021:04 ~ 2021.07</p>
+<p>사용한 기술스택 : html, css, jQuery, javascript</p>
+
+<ul>
+  <li>웹 접근성 준수 반응형 웹 퍼블리싱</li>
+</ul>
 
 <!-- <h2>My Project</h2>
 <table>
