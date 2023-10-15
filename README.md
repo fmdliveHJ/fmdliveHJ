@@ -32,7 +32,6 @@
 </p>
 
 <br/>
-
 <h2>My Project</h2>
 <table>
   <tbody>
