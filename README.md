@@ -58,7 +58,7 @@
    <tr>
     <td>
      <a href="https://fmdlivehj.github.io/todo_list/" title="투두리스트">
-      <img align="center" src="http://fmdlive.com/img/todolist.png" width="300" alt-text="투두리스트">
+      <img align="center" src="http://fmdlive.com/gitimage/nudiejeans.png" width="300" alt-text="투두리스트">
      </a>
       <p align="center">투두 리스트</p>
       </td>
