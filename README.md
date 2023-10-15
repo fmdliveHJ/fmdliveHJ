@@ -38,7 +38,7 @@
     <tr>
       <td>
         <a href="https://fmdlivehj.github.io/nudie_portfolio/" title="바닐라 자바스크립트 누디진 🚀">
-         <img align="center" src="http://fmdlive.com/gitimage/jeep.png" width="300" alt-text="누디진">
+         <img align="center" src="http://fmdlive.com/gitimage/nudiejeans.png" width="300" alt-text="누디진">
         </a>
         <p align="center">바닐라 자바스크립트 누디진</p>
       </td>
