@@ -82,41 +82,25 @@
   <li>웹 접근성 준수 반응형 웹 퍼블리싱</li>
 </ul>
 
-<!-- <h2>My Project</h2>
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://fmdlivehj.github.io/nudie_portfolio/" title="바닐라 자바스크립트 누디진 🚀">
-         <img align="center" src="http://fmdlive.com/gitimage/nudiejeans.png" width="300" alt-text="누디진">
-        </a>
-        <p align="center">바닐라 자바스크립트 누디진</p>
-      </td>
-      </tr>
-      <tr style="margin-top: 100px">
-        <td>
-          <a href="https://fmdlivehj.github.io/jeep_portfolio/#/" title="리액트, 리덕스 사가">
-            <img align="center" src="http://fmdlive.com/gitimage/jeep.png" width="300" alt-text="리액트, 리덕스 사가">
-          </a>
-          <p align="center">리액트, 리덕스 사가 </p>
-        </td>
-     </tr>
-  </tbody>
-</table>
-<br/><br/> -->
-<!-- <h2>Toy Project</h2> -->
-<!-- <table>
-  <tbody>
-   <tr>
-    <td>
-     <a href="https://fmdlivehj.github.io/todo_list/" title="투두리스트">
-      <img align="center" src="http://fmdlive.com/gitimage/nudiejeans.png" width="300" alt-text="투두리스트">
-     </a>
-      <p align="center">투두 리스트</p>
-      </td>
-   </tr>
+<h2><h2 style="line-height:1">Work. Experience.</h2></h2>
+<div style="background:#1f6feb; height:1px;"></div>
+<h3>Jeep</h3>
+<p>프로젝트 기간 : 2022:06 ~ 2022.07</p>
+<p>사용한 기술스택 :  React, Redux, scss </p>
+<p>링크 :<a href="https://fmdlivehj.github.io/jeep_portfolio/" target="_blank"> Jeep</a></p>
+<ul>
+  <li>React</li>
+  <li>kakao map api</li>
+  <li>자바스크립트 스크롤 모션</li>
+</ul>
 
-  </tbody>
-</table> -->
-
+<h3>Nudie Jeans</h3>
+<p>프로젝트 기간 : 2022:06 ~ 2022.07</p>
+<p>사용한 기술스택 : html, scss, javascript</p>
+<p>링크 :<a href="https://fmdlivehj.github.io/nudie_portfolio/" target="_blank"> Nudie Jeans</a></p>
+<ul>
+  <li>스와이퍼 슬라이드</li>
+  <li>kakao map api</li>
+  <li>gsap라이브러리를 활용한 스크롤 모션</li>
+</ul>
  </div>
