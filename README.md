@@ -4,11 +4,6 @@
  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JUNG%20HYEONJIN&fontSize=50&animation=fadeIn&fontAlignY=38&descAlignY=81&descAlign=-90&fontColor=fff" />
  </header>
 <div align=center>
-  <p>안녕하세요!
-
-저는 깔끔한 UI와
-특별한 UX를 만드는
-정현진 입니다.</p>
 
 <p>긍정적 사고로 끊임없이 노력합니다. </br>
 웹퍼블리셔 3년의 경험과 프론트엔드 개발의 1년간의 경험으로 </br> 변화하는 웹 트렌드에 뒤처지지 않으려 <br> 새로운 것을 찾고 탐구합니다.</p>
