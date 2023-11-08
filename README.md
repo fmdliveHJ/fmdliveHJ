@@ -39,7 +39,6 @@
   <li>랜딩 페이지 스크롤 이벤트 구현 </li>
   <li>검색 페이지 프론트 개발 및 질문 검색 기능 구현</li>
   <li>mobile webview위한 반응형 구현</li>
-  <li>express, docker 사용한 다국어 코드북 페이지 구현</li>
 </ul>
 
 <h3>샘물</h3>
