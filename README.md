@@ -47,6 +47,7 @@
 
 <p>프로젝트 기간 : 2024:04 ~ 현재</p>
 <p>사용한 기술스택 : Vue</p>
+<p>링크 :<a href="https://www.soribaro.com/welcome" target="_blank"> 웍스파이</a>
 <ul>
   <li>랜딩 페이지 스크롤 이벤트 구현</li>
   <li>랜딩 페이지 스크롤 이벤트 구현</li>
@@ -57,7 +58,7 @@
 
 <p>프로젝트 기간 : 2024:04 ~ 현재</p>
 <p>사용한 기술스택 : Nuxt</p>
-<p>링크 :<a href="[http://www.baronote.com/](https://worksfy.net/)" target="_blank"> 웍스파이</a>
+<p>링크 :<a href="https://worksfy.net/" target="_blank"> 웍스파이</a>
 </p>
 <ul>
   <li>랜딩 페이지 스크롤 이벤트 구현</li>
@@ -68,7 +69,6 @@
 
 <p>프로젝트 기간 : 2024:08 ~ 2024.10</p>
 <p>사용한 기술스택 : Nuxt</p>
-<p>링크 :<a href="[http://www.baronote.com/](https://worksfy.net/)" target="_blank"> 웍스파이</a>
 </p>
 <ul>
   <li>JSP 환경에서 리뉴얼 퍼블리싱</li>
@@ -89,7 +89,7 @@
 
 <h3>샘물</h3>
 <p>프로젝트 기간 : 2023:02 ~ 2023.03</p>
-<p>사용한 기술스택 : React, Redux-toolkit, tailwind.css</p>
+<p>사용한 기술스택 : React, tailwind.css</p>
 
 <ul>
   <li>검색 페이지 프론트 개발 및 질문 검색 기능 구현</li>
@@ -98,10 +98,11 @@
 
 <h2><h2 style="line-height:1">Web Publishing. Experience.</h2></h2>
 <div style="background:#1f6feb; height:1px;"></div>
+
 <h3>팀블로</h3>
 <p>프로젝트 기간 : 2024:08 ~ 2024.12</p>
-<p>사용한 기술스택 : Nuxt, jQeury</p>
-<p>링크 :<a href="[https://www.webjangi.com/artwork](https://timblo.io/ko)" target="_blank"> 웹쟁이</a></p>
+<p>사용한 기술스택 : Nuxt, jQeury, gsap</p>
+<p>링크 :<a href="https://timblo.io/ko" target="_blank"> 팀블로</a></p>
 <ul>
   <li>반응형 웹 퍼블리싱</li>
   <li>Seo 고려한 메타 태그 등록</li>
