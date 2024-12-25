@@ -10,29 +10,75 @@
 <p></p>
 </div>
  <h2> My Skill </h2>
-<!--  <p>홈페이지 : <a href="http://fmdlive.com" target="_blank">fmdlive.com</a> </p> -->
- <!-- <p>블로그 : <a href="https://fmdlivehj.github.io/about" target="_blank">https://fmdlivehj.github.io/about</a> </p> -->
 
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
 ![SCSS](https://img.shields.io/badge/Scss-cc6699?style=for-the-badge&logo=Sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=%23007ACC&color=%23007ACC)
+
 ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
+![Vue](https://img.shields.io/badge/-Vue-222222?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Nuxt](https://img.shields.io/badge/-Nuxt-222222?style=for-the-badge&logo=nuxt.js&logoColor=00DC82)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 
- <p>
+<p>
 
 <!-- <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
   -->
 </p>
 
 <br/>
+
 <h2 style="line-height:1">Front-end. Experience.</h2>
 <div style="background:#1f6feb; height:1px;"></div>
+
+<h3>소리자바 버디</h3>
+
+<p>프로젝트 기간 : 2024:12 ~ 현재</p>
+<p>사용한 기술스택 : Nuxt, pinia</p>
+<ul>
+  <li>Pc app에서 web으로 전환</li>
+  <li>pinia 활용한 상태 관리</li>
+  <li>속기 키보드에 맞도록 키보드 ui동작 구현</li>
+</ul>
+
+<h3>소리바로</h3>
+
+<p>프로젝트 기간 : 2024:04 ~ 현재</p>
+<p>사용한 기술스택 : Vue</p>
+<ul>
+  <li>랜딩 페이지 스크롤 이벤트 구현</li>
+  <li>랜딩 페이지 스크롤 이벤트 구현</li>
+  <li>퀘이사 활용한 스플리트 화면 구현</li>
+</ul>
+
+<h3>웍스파이</h3>
+
+<p>프로젝트 기간 : 2024:04 ~ 현재</p>
+<p>사용한 기술스택 : Nuxt</p>
+<p>링크 :<a href="[http://www.baronote.com/](https://worksfy.net/)" target="_blank"> 웍스파이</a>
+</p>
+<ul>
+  <li>랜딩 페이지 스크롤 이벤트 구현</li>
+  <li>mobile webview위한 리뉴얼</li>
+</ul>
+
+<h3>헌법재판소</h3>
+
+<p>프로젝트 기간 : 2024:08 ~ 2024.10</p>
+<p>사용한 기술스택 : Nuxt</p>
+<p>링크 :<a href="[http://www.baronote.com/](https://worksfy.net/)" target="_blank"> 웍스파이</a>
+</p>
+<ul>
+  <li>JSP 환경에서 리뉴얼 퍼블리싱</li>
+  <li>풀캘린더 JS 구현</li>
+</ul>
+
 <h3>바로노트</h3>
 
-<p>프로젝트 기간 : 2022:10 ~ 현재</p>
-<p>사용한 기술스택 : React, Redux, styled-components</p>
+<p>프로젝트 기간 : 2022:10 ~ 2024.02</p>
+<p>사용한 기술스택 : React, styled-components</p>
 <p>링크 :<a href="http://www.baronote.com/" target="_blank"> 바로노트</a>
 </p>
 <ul>
@@ -52,6 +98,17 @@
 
 <h2><h2 style="line-height:1">Web Publishing. Experience.</h2></h2>
 <div style="background:#1f6feb; height:1px;"></div>
+<h3>팀블로</h3>
+<p>프로젝트 기간 : 2024:08 ~ 2024.12</p>
+<p>사용한 기술스택 : Nuxt, jQeury</p>
+<p>링크 :<a href="[https://www.webjangi.com/artwork](https://timblo.io/ko)" target="_blank"> 웹쟁이</a></p>
+<ul>
+  <li>반응형 웹 퍼블리싱</li>
+  <li>Seo 고려한 메타 태그 등록</li>
+  <li>구글 서치 콘솔에 서비스 소유권 등록</li>
+  <li>네이버 서치 어드바이저에 소유권 등록</li>
+</ul>
+
 <h3>웹쟁이</h3>
 <p>프로젝트 기간 : 2021:09 ~ 2022.01</p>
 <p>사용한 기술스택 : html, css, jQuery, javascript</p>
