@@ -47,9 +47,8 @@
 
 <p>프로젝트 기간 : 2024:04 ~ 현재</p>
 <p>사용한 기술스택 : Vue</p>
-<p>링크 :<a href="https://www.soribaro.com/welcome" target="_blank"> 웍스파이</a>
+<p>링크 :<a href="https://www.soribaro.com/welcome" target="_blank"> 소리바로</a>
 <ul>
-  <li>랜딩 페이지 스크롤 이벤트 구현</li>
   <li>랜딩 페이지 스크롤 이벤트 구현</li>
   <li>퀘이사 활용한 스플리트 화면 구현</li>
 </ul>
