@@ -3,9 +3,9 @@
  <header>
  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JUNG%20HYEONJIN&fontSize=50&animation=fadeIn&fontAlignY=38&descAlignY=81&descAlign=-90&fontColor=fff" />
  </header>
-<div align=center>
+<div align=left>
 
-<p>
+<p >
  항상 긍정적인 사고를 바탕으로 끊임없이 노력하며 성장해왔습니다.<br/>
  다양한 웹 퍼블리싱 경험을 통해 웹 퍼블리싱에 대한 깊은 이해를 갖추고 있으며, <br/>
  Vue와 React 환경에서 마크업 개발을 성공적으로 수행한 경험이 있습니다. <br/>
@@ -107,7 +107,7 @@ Tailwind, Quasar, Bootstrap 등의 SCSS를 활용해 명확한 클래스 네이�
 <p>링크 :<a href="https://timblo.io/ko" target="_blank"> 팀블로</a></p>
 <ul>
   <li>Nuxt 프레임워크 기반 웹페이지 구현: 반응형 웹페이지 개발 및 SSR(Server-Side Rendering)을 통한 성능 최적화</li>
-  <li>SEO 최적화: 구글 서치 콘솔 및 네이버 서치 어드바이저 소유권 등록 및 SEO 규칙 준수로 검색 엔진 노출 강화</li>
+  <li>SEO 최적화: 구글 서치 콘솔 및 네이버 서치 어드바이저 소유권 등록 및 SEO 규칙 준수로 검색 엔진 노출 강화</li>
   <li>반응형 웹 구현: 다양한 디바이스에 최적화된 인터페이스 설계 및 사용자 경험 개선</li>
 </ul>
 
