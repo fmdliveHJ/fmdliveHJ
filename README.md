@@ -46,7 +46,7 @@ Tailwind, Quasar, Bootstrap 등의 CSS 프레임워크와 SCSS를 활용해<br/>
 <h3>소리자바 버디</h3>
 
 <p>프로젝트 기간 : 2024:12 ~ 현재</p>
-<p>사용한 기술스택 : Nuxt, Pinia, Scss</p>
+<p>기술스택 : Nuxt, Pinia, Scss</p>
 <p>기여도 : 80%</p>
 <ul>
   <li>Pc app에서 web으로 전환 - 하드코드 되어 있던 코드 컴포넌트로 구조 변경</li>
@@ -57,7 +57,7 @@ Tailwind, Quasar, Bootstrap 등의 CSS 프레임워크와 SCSS를 활용해<br/>
 <h3>소리바로</h3>
 
 <p>프로젝트 기간 : 2024:04 ~ 현재</p>
-<p>사용한 기술스택 :HTML, Vue, Scss</p>
+<p>기술스택 :HTML, Vue, Scss</p>
 <p>기여도 : 홈페이지 70% , 작업툴/번역툴: 15%, 관리자화면: 10%</p>
 <p>링크 :<a href="https://www.soribaro.com/welcome" target="_blank"> 소리바로</a>
 <ul>
@@ -70,8 +70,8 @@ Tailwind, Quasar, Bootstrap 등의 CSS 프레임워크와 SCSS를 활용해<br/>
 <h3>웍스파이</h3>
 
 <p>프로젝트 기간 : 2024:04 ~ 현재</p>
-<p>사용한 기술스택 : Nuxt</p>
-<p>기여도 : </p>
+<p>기술스택 : Nuxt</p>
+<p>기여도 : 40% </p>
 <p>링크 :<a href="https://worksfy.net/" target="_blank"> 웍스파이</a>
 </p>
 <ul>
@@ -84,7 +84,8 @@ Tailwind, Quasar, Bootstrap 등의 CSS 프레임워크와 SCSS를 활용해<br/>
 <h3>헌법재판소</h3>
 
 <p>프로젝트 기간 : 2024:08 ~ 2024.10</p>
-<p>사용한 기술스택 : Js/jQeury</p>
+<p>기술스택 : Js/jQeury</p>
+<p>기여도 : 20% </p>
 </p>
 <ul>
   <li>JSP 환경 웹 리뉴얼 퍼블리싱: JSP 기반의 기존 시스템을 웹 표준 준수 및 리뉴얼 퍼블리싱</li>
@@ -94,8 +95,9 @@ Tailwind, Quasar, Bootstrap 등의 CSS 프레임워크와 SCSS를 활용해<br/>
 
 <h3>팀블로</h3>
 <p>프로젝트 기간 : 2024:06 ~ 2024.08</p>
-<p>사용한 기술스택 : Nuxt, jQeury, gsap</p>
+<p>기술스택 : Nuxt, jQeury, gsap</p>
 <p>링크 :<a href="https://timblo.io/ko" target="_blank"> 팀블로</a></p>
+<p>기여도 : 80% </p>
 <ul>
   <li>Nuxt 프레임워크 기반 웹페이지 구현: 반응형 웹페이지 개발 및 SSR(Server-Side Rendering)을 통한 성능 최적화</li>
   <li>SEO 최적화: 구글 서치 콘솔 및 네이버 서치 어드바이저 소유권 등록 및 SEO 규칙 준수로 검색 엔진 노출 강화</li>
@@ -105,8 +107,8 @@ Tailwind, Quasar, Bootstrap 등의 CSS 프레임워크와 SCSS를 활용해<br/>
 <h3>바로노트</h3>
 
 <p>프로젝트 기간 : 2022:10 ~ 2024.02</p>
-<p>사용한 기술스택 : React, styled-components</p>
-</p>
+<p>기술스택 : React, styled-components</p>
+<p>기여도 : 20% </p>
 <ul>
   <li>랜딩 페이지 스크롤 이벤트 구현 </li>
   <li>검색 페이지 프론트 개발 및 질문 검색 기능 구현</li>
@@ -118,8 +120,9 @@ Tailwind, Quasar, Bootstrap 등의 CSS 프레임워크와 SCSS를 활용해<br/>
 
 <h3>노원평생교육포털</h3>
 <p>프로젝트 기간 : 2021:09 ~ 2022.01</p>
-<p>사용한 기술스택 : html, css, jQuery, javascript</p>
+<p>기술스택 : html, css, jQuery, javascript</p>
 <p>링크 :<a href="https://www.nowon.kr/nwll/web/intro" target="_blank"> 노원평생교육포털</a></p>
+<p>기여도 : 30% </p>
 <ul>
   <li>웹 접근성 준수 퍼블리싱: 반응형 웹 작업 -tab 포커싱 순차적 포커싱 이동</li>
   <li>중복 요소 템플릿화: 100페이지 이상의 중복 요소를 템플릿화하여 유지보수 효율성 강화</li>
@@ -127,8 +130,9 @@ Tailwind, Quasar, Bootstrap 등의 CSS 프레임워크와 SCSS를 활용해<br/>
 
 <h3>화성시여성가족청소년재단</h3>
 <p>프로젝트 기간 : 2021:04 ~ 2021.07</p>
-<p>사용한 기술스택 : html, css, jQuery, javascript</p>
+<p>기술스택 : html, css, jQuery, javascript</p>
 <p>링크 :<a href="https://www.hswf.or.kr/fmcs/1" target="_blank"> 화성시여성가족청소년재단</a></p>
+<p>기여도 : 30% </p>
 <ul>
   <li>반응형 웹 접근성 준수 퍼블리싱: 공공기관 표준을 준수하며 모바일·PC 대응 UI 개발</li>
   <li>중복 요소 템플릿화: 200페이지 이상의 중복 요소를 템플릿화하여 유지보수 효율성 강화</li>
@@ -138,7 +142,7 @@ Tailwind, Quasar, Bootstrap 등의 CSS 프레임워크와 SCSS를 활용해<br/>
 <div style="background:#1f6feb; height:1px;"></div>
 <h3>Jeep</h3>
 <p>프로젝트 기간 : 2022:06 ~ 2022.07</p>
-<p>사용한 기술스택 :  React, Redux, scss </p>
+<p>기술스택 :  React, Redux, scss </p>
 <p>링크 :<a href="https://fmdlivehj.github.io/jeep_portfolio/" target="_blank"> Jeep</a></p>
 <ul>
   <li>React</li>
@@ -148,7 +152,7 @@ Tailwind, Quasar, Bootstrap 등의 CSS 프레임워크와 SCSS를 활용해<br/>
 
 <h3>Nudie Jeans</h3>
 <p>프로젝트 기간 : 2022:06 ~ 2022.07</p>
-<p>사용한 기술스택 : html, scss, javascript</p>
+<p>기술스택 : html, scss, javascript</p>
 <p>링크 :<a href="https://fmdlivehj.github.io/nudie_portfolio/" target="_blank"> Nudie Jeans</a></p>
 <ul>
   <li>스와이퍼 슬라이드</li>
