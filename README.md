@@ -53,7 +53,7 @@ Tailwind, Quasar, Bootstrap 등의 CSS 프레임워크와 SCSS를 활용해<br/>
 
 <h3>소리자바 버디</h3>
 
-<p>프로젝트 기간 : 2024:12 ~ 현재</p>
+<p>프로젝트 기간 : 2024:12 ~ 2025.02</p>
 <p>기술스택 : Nuxt, Pinia, Scss</p>
 <p>기여도 : 80%</p>
 <ul>
@@ -64,7 +64,7 @@ Tailwind, Quasar, Bootstrap 등의 CSS 프레임워크와 SCSS를 활용해<br/>
 
 <h3>소리바로</h3>
 
-<p>프로젝트 기간 : 2024:04 ~ 현재</p>
+<p>프로젝트 기간 : 2024:04 ~ 2025.02</p>
 <p>기술스택 :HTML, Vue, Scss</p>
 <p>기여도 : 홈페이지 70% , 작업툴/번역툴: 15%, 관리자화면: 10%</p>
 <p>링크 :<a href="https://www.soribaro.com/welcome" target="_blank"> 소리바로</a>
@@ -77,7 +77,7 @@ Tailwind, Quasar, Bootstrap 등의 CSS 프레임워크와 SCSS를 활용해<br/>
 
 <h3>웍스파이</h3>
 
-<p>프로젝트 기간 : 2024:04 ~ 현재</p>
+<p>프로젝트 기간 : 2024:04 ~ 2025.02</p>
 <p>기술스택 : Nuxt</p>
 <p>기여도 : 40% </p>
 <p>링크 :<a href="https://worksfy.net/" target="_blank"> 웍스파이</a>
