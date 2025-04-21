@@ -92,7 +92,7 @@ Tailwind, Quasar, Bootstrap 등의 CSS 프레임워크와 SCSS를 활용해<br/>
 <h3>헌법재판소</h3>
 
 <p>프로젝트 기간 : 2024:08 ~ 2024.10</p>
-<p>기술스택 : Js/jQeury</p>
+<p>기술스택 : Js/jQuery</p>
 <p>기여도 : 20% </p>
 </p>
 <ul>
@@ -103,7 +103,7 @@ Tailwind, Quasar, Bootstrap 등의 CSS 프레임워크와 SCSS를 활용해<br/>
 
 <h3>팀블로</h3>
 <p>프로젝트 기간 : 2024:06 ~ 2024.08</p>
-<p>기술스택 : Nuxt, jQeury, gsap</p>
+<p>기술스택 : Nuxt, jQuery, gsap</p>
 <p>링크 :<a href="https://timblo.io/ko" target="_blank"> 팀블로</a></p>
 <p>기여도 : 80% </p>
 <ul>
