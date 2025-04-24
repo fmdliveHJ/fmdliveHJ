@@ -48,7 +48,7 @@ Tailwind, Quasar, Bootstrap 등의 CSS 프레임워크와 SCSS를 활용해<br/>
 
 <br/>
 
-<h2 style="line-height:1">Publisher & Front-end. Experience.</h2>
+<h2 style="line-height:1">Front-end. Experience.</h2>
 <div style="background:#1f6feb; height:1px;"></div>
 
 <h3>소리자바 버디</h3>
@@ -89,18 +89,6 @@ Tailwind, Quasar, Bootstrap 등의 CSS 프레임워크와 SCSS를 활용해<br/>
   <li>BO 컴포넌트 구조 개선: Quasar를 사용해 백오피스(BO) 컴포넌트를 모듈화 및 구조적 효율성 강화 - (button, input, modal)</li>
 </ul>
 
-<h3>헌법재판소</h3>
-
-<p>프로젝트 기간 : 2024:08 ~ 2024.10</p>
-<p>기술스택 : Js/jQuery</p>
-<p>기여도 : 20% </p>
-</p>
-<ul>
-  <li>JSP 환경 웹 리뉴얼 퍼블리싱: JSP 기반의 기존 시스템을 웹 표준 준수 및 리뉴얼 퍼블리싱</li>
-  <li>FullCalendar.js 활용: FullCalendar.js로 월/주/일 단위의 팝업 및 인터랙티브 UI 구현</li>
-  <li>특정 페이지에서 메뉴 클릭 시 menuId를 localStorage에 저장 → 새로고침 시 menuId 확인하여 해당 URL로 이동 및 메뉴 활성화 유지</li>
-</ul>
-
 <h3>팀블로</h3>
 <p>프로젝트 기간 : 2024:06 ~ 2024.08</p>
 <p>기술스택 : Nuxt, jQuery, gsap</p>
@@ -124,6 +112,20 @@ Tailwind, Quasar, Bootstrap 등의 CSS 프레임워크와 SCSS를 활용해<br/>
   <li>화면 퍼블리싱 및 모바일 UI 구현: MSA 구조 내 다른 서비스와 연동하여 모바일 화면 퍼블리싱</li>
   <li>이메일 입력 폼 퍼블리싱 작업 수행 (UI 구현 및 스타일링 / outlook, nate, naver, hanbiro)</li>
   <li>PC 버전 UI/UX 리뉴얼 구현 및 퍼블리싱 작업 수행</li>
+</ul>
+
+<h2 style="line-height:1">Publisher. Experience.</h2>
+
+<h3>헌법재판소</h3>
+
+<p>프로젝트 기간 : 2024:08 ~ 2024.10</p>
+<p>기술스택 : Js/jQuery</p>
+<p>기여도 : 20% </p>
+</p>
+<ul>
+  <li>JSP 환경 웹 리뉴얼 퍼블리싱: JSP 기반의 기존 시스템을 웹 표준 준수 및 리뉴얼 퍼블리싱</li>
+  <li>FullCalendar.js 활용: FullCalendar.js로 월/주/일 단위의 팝업 및 인터랙티브 UI 구현</li>
+  <li>특정 페이지에서 메뉴 클릭 시 menuId를 localStorage에 저장 → 새로고침 시 menuId 확인하여 해당 URL로 이동 및 메뉴 활성화 유지</li>
 </ul>
 
 <h3>노원평생교육포털</h3>
